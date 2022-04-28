@@ -9,9 +9,10 @@
 Console.Write("Введите имя пользователя: ");
 string username = Console.ReadLine();
 
-// if(username = "Маша")
+// if(username == "Маша")
 
-if(username.ToLower() == "Маша")
+
+if(username.ToLower() == "маша")
 {
     Console.WriteLine("Урра, это же Маша!");
 }
@@ -21,6 +22,6 @@ else
     Console.WriteLine(username);
 }
 // Решение проблемы с регистром
-// После комады username в двенадатой строке нужно ввести ToLower 
+// После комады username в двенадатой строке нужно ввести ToLower и в 15 строке "Маша" изменить на "маша"
 
 
