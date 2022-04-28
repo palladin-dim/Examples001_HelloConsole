@@ -1,0 +1,15 @@
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\Example005_Rondom.csproj.AssemblyReference.cache
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\Example005_Rondom.GeneratedMSBuildEditorConfig.editorconfig
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\Example005_Rondom.AssemblyInfoInputs.cache
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\Example005_Rondom.AssemblyInfo.cs
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\Example005_Rondom.csproj.CoreCompileInputs.cache
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\bin\Debug\net6.0\Example005_Rondom.exe
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\bin\Debug\net6.0\Example005_Rondom.deps.json
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\bin\Debug\net6.0\Example005_Rondom.runtimeconfig.json
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\bin\Debug\net6.0\Example005_Rondom.dll
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\bin\Debug\net6.0\Example005_Rondom.pdb
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\Example005_Rondom.dll
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\refint\Example005_Rondom.dll
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\Example005_Rondom.pdb
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\Example005_Rondom.genruntimeconfig.cache
+G:\Программирование\обучение разработчик\уроки разработчик\C#\Examples\Example005_Rondom\obj\Debug\net6.0\ref\Example005_Rondom.dll
