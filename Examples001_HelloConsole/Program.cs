@@ -2,4 +2,4 @@
 Console.WriteLine("Hello, World!");
 // WriteLine  - то что будет выводится в терминале ("Hello, World!"). при сильных тормазах программы, нуно отключить автосохранения.
 // Через команду Console, обращаемся к окну терминала.
-// git commit - a вызывает редактор Subline Text/
+// git commit - -a вызывает редактор Subline Text/
