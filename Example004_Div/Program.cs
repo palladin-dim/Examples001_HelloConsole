@@ -1,4 +1,4 @@
-﻿int namberA = 10;
-int namberB = 5;
-Console.WriteLine(nulmberA / numberB);
-// commit -a, --all фиксирует все измененные файлы
+﻿double numberA = 12;
+double numberB = 5;
+Console.WriteLine(numberA / numberB);
+// -a, --all фиксирует все измененные файлы
